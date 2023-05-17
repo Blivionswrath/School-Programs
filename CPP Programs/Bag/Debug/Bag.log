@@ -1,0 +1,4 @@
+﻿  Bag.cpp
+C:\Users\Tanner\source\repos\Bag\Bag.cpp(164,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tanner\source\repos\Bag\Bag.cpp(253,21): warning C4018: '<': signed/unsigned mismatch
+  Bag.vcxproj -> C:\Users\Tanner\source\repos\Bag\Debug\Bag.exe

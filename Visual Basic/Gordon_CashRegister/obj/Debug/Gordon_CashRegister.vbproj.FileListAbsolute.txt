@@ -1,0 +1,14 @@
+C:\Users\Tanner\source\repos\Gordon_CashRegister\Gordon_CashRegister\bin\Debug\Gordon_CashRegister.exe.config
+C:\Users\Tanner\source\repos\Gordon_CashRegister\Gordon_CashRegister\bin\Debug\Gordon_CashRegister.exe
+C:\Users\Tanner\source\repos\Gordon_CashRegister\Gordon_CashRegister\bin\Debug\Gordon_CashRegister.pdb
+C:\Users\Tanner\source\repos\Gordon_CashRegister\Gordon_CashRegister\bin\Debug\Gordon_CashRegister.xml
+C:\Users\Tanner\source\repos\Gordon_CashRegister\Gordon_CashRegister\obj\Debug\Gordon_CashRegister.vbprojAssemblyReference.cache
+C:\Users\Tanner\source\repos\Gordon_CashRegister\Gordon_CashRegister\obj\Debug\Gordon_CashRegister.frmAddForm.resources
+C:\Users\Tanner\source\repos\Gordon_CashRegister\Gordon_CashRegister\obj\Debug\Gordon_CashRegister.frmCashRegister.resources
+C:\Users\Tanner\source\repos\Gordon_CashRegister\Gordon_CashRegister\obj\Debug\Gordon_CashRegister.Resources.resources
+C:\Users\Tanner\source\repos\Gordon_CashRegister\Gordon_CashRegister\obj\Debug\Gordon_CashRegister.vbproj.GenerateResource.cache
+C:\Users\Tanner\source\repos\Gordon_CashRegister\Gordon_CashRegister\obj\Debug\Gordon_CashRegister.vbproj.CoreCompileInputs.cache
+C:\Users\Tanner\source\repos\Gordon_CashRegister\Gordon_CashRegister\obj\Debug\Gordon_CashRegister.exe
+C:\Users\Tanner\source\repos\Gordon_CashRegister\Gordon_CashRegister\obj\Debug\Gordon_CashRegister.xml
+C:\Users\Tanner\source\repos\Gordon_CashRegister\Gordon_CashRegister\obj\Debug\Gordon_CashRegister.pdb
+C:\Users\Tanner\source\repos\Gordon_CashRegister\Gordon_CashRegister\obj\Debug\Gordon_CashRegister.frmModify.resources

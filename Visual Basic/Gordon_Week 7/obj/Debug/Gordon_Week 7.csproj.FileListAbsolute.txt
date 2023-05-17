@@ -1,0 +1,10 @@
+C:\Users\Tanner\source\repos\Gordon_Week 7\bin\Debug\Gordon_Week 7.exe.config
+C:\Users\Tanner\source\repos\Gordon_Week 7\bin\Debug\Gordon_Week 7.exe
+C:\Users\Tanner\source\repos\Gordon_Week 7\bin\Debug\Gordon_Week 7.pdb
+C:\Users\Tanner\source\repos\Gordon_Week 7\obj\Debug\Gordon_Week 7.csproj.AssemblyReference.cache
+C:\Users\Tanner\source\repos\Gordon_Week 7\obj\Debug\Gordon_Week_7.Form1.resources
+C:\Users\Tanner\source\repos\Gordon_Week 7\obj\Debug\Gordon_Week_7.Properties.Resources.resources
+C:\Users\Tanner\source\repos\Gordon_Week 7\obj\Debug\Gordon_Week 7.csproj.GenerateResource.cache
+C:\Users\Tanner\source\repos\Gordon_Week 7\obj\Debug\Gordon_Week 7.csproj.CoreCompileInputs.cache
+C:\Users\Tanner\source\repos\Gordon_Week 7\obj\Debug\Gordon_Week 7.exe
+C:\Users\Tanner\source\repos\Gordon_Week 7\obj\Debug\Gordon_Week 7.pdb

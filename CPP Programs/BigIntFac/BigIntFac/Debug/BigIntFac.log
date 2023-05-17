@@ -1,0 +1,5 @@
+﻿  BigIntFac.cpp
+C:\Users\Tanner\source\repos\BigIntFac\BigIntFac\BigIntFac.cpp(124,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tanner\source\repos\BigIntFac\BigIntFac\BigIntFac.cpp(156,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tanner\source\repos\BigIntFac\BigIntFac\BigIntFac.cpp(203,23): warning C4018: '<': signed/unsigned mismatch
+  BigIntFac.vcxproj -> C:\Users\Tanner\source\repos\BigIntFac\Debug\BigIntFac.exe

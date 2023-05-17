@@ -1,0 +1,3 @@
+﻿  BinaryMerge.cpp
+C:\Users\Tanner\source\repos\BinaryMerge\BinaryMerge.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+  BinaryMerge.vcxproj -> C:\Users\Tanner\source\repos\BinaryMerge\Debug\BinaryMerge.exe

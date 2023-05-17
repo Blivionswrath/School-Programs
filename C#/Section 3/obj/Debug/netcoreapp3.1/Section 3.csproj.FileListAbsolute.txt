@@ -1,0 +1,14 @@
+C:\Users\Tanner\source\repos\Section 3\bin\Debug\netcoreapp3.1\Section 3.exe
+C:\Users\Tanner\source\repos\Section 3\bin\Debug\netcoreapp3.1\Section 3.deps.json
+C:\Users\Tanner\source\repos\Section 3\bin\Debug\netcoreapp3.1\Section 3.runtimeconfig.json
+C:\Users\Tanner\source\repos\Section 3\bin\Debug\netcoreapp3.1\Section 3.runtimeconfig.dev.json
+C:\Users\Tanner\source\repos\Section 3\bin\Debug\netcoreapp3.1\Section 3.dll
+C:\Users\Tanner\source\repos\Section 3\bin\Debug\netcoreapp3.1\Section 3.pdb
+C:\Users\Tanner\source\repos\Section 3\obj\Debug\netcoreapp3.1\Section 3.csproj.AssemblyReference.cache
+C:\Users\Tanner\source\repos\Section 3\obj\Debug\netcoreapp3.1\Section 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanner\source\repos\Section 3\obj\Debug\netcoreapp3.1\Section 3.AssemblyInfoInputs.cache
+C:\Users\Tanner\source\repos\Section 3\obj\Debug\netcoreapp3.1\Section 3.AssemblyInfo.cs
+C:\Users\Tanner\source\repos\Section 3\obj\Debug\netcoreapp3.1\Section 3.csproj.CoreCompileInputs.cache
+C:\Users\Tanner\source\repos\Section 3\obj\Debug\netcoreapp3.1\Section 3.dll
+C:\Users\Tanner\source\repos\Section 3\obj\Debug\netcoreapp3.1\Section 3.pdb
+C:\Users\Tanner\source\repos\Section 3\obj\Debug\netcoreapp3.1\Section 3.genruntimeconfig.cache

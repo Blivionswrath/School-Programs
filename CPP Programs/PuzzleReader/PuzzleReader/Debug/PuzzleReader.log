@@ -1,0 +1,3 @@
+﻿  PuzzleReader.cpp
+C:\Users\Tanner\source\repos\PuzzleReader\PuzzleReader\PuzzleReader.cpp(143,21): warning C4018: '<': signed/unsigned mismatch
+  PuzzleReader.vcxproj -> C:\Users\Tanner\source\repos\PuzzleReader\Debug\PuzzleReader.exe

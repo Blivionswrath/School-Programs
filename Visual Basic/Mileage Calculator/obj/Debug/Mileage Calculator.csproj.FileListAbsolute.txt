@@ -1,0 +1,10 @@
+C:\Users\Tanner\source\repos\Mileage Calculator\bin\Debug\Mileage Calculator.exe.config
+C:\Users\Tanner\source\repos\Mileage Calculator\bin\Debug\Mileage Calculator.exe
+C:\Users\Tanner\source\repos\Mileage Calculator\bin\Debug\Mileage Calculator.pdb
+C:\Users\Tanner\source\repos\Mileage Calculator\obj\Debug\Mileage Calculator.csproj.AssemblyReference.cache
+C:\Users\Tanner\source\repos\Mileage Calculator\obj\Debug\Mileage_Calculator.frmMileageCalculator.resources
+C:\Users\Tanner\source\repos\Mileage Calculator\obj\Debug\Mileage_Calculator.Properties.Resources.resources
+C:\Users\Tanner\source\repos\Mileage Calculator\obj\Debug\Mileage Calculator.csproj.GenerateResource.cache
+C:\Users\Tanner\source\repos\Mileage Calculator\obj\Debug\Mileage Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Tanner\source\repos\Mileage Calculator\obj\Debug\Mileage Calculator.exe
+C:\Users\Tanner\source\repos\Mileage Calculator\obj\Debug\Mileage Calculator.pdb

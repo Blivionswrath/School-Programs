@@ -1,0 +1,10 @@
+C:\Users\Tanner\source\repos\AirlineSeating\bin\Debug\AirlineSeating.exe.config
+C:\Users\Tanner\source\repos\AirlineSeating\bin\Debug\AirlineSeating.exe
+C:\Users\Tanner\source\repos\AirlineSeating\bin\Debug\AirlineSeating.pdb
+C:\Users\Tanner\source\repos\AirlineSeating\obj\Debug\Gordon_Assignment 2.csproj.AssemblyReference.cache
+C:\Users\Tanner\source\repos\AirlineSeating\obj\Debug\AirlineSeating.frmAirlineSeating.resources
+C:\Users\Tanner\source\repos\AirlineSeating\obj\Debug\AirlineSeating.Properties.Resources.resources
+C:\Users\Tanner\source\repos\AirlineSeating\obj\Debug\Gordon_Assignment 2.csproj.GenerateResource.cache
+C:\Users\Tanner\source\repos\AirlineSeating\obj\Debug\Gordon_Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\Tanner\source\repos\AirlineSeating\obj\Debug\AirlineSeating.exe
+C:\Users\Tanner\source\repos\AirlineSeating\obj\Debug\AirlineSeating.pdb

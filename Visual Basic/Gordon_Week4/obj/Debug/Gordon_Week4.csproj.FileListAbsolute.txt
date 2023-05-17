@@ -1,0 +1,10 @@
+C:\Users\Tanner\source\repos\Gordon_Week4\bin\Debug\Gordon_Week4.exe.config
+C:\Users\Tanner\source\repos\Gordon_Week4\bin\Debug\Gordon_Week4.exe
+C:\Users\Tanner\source\repos\Gordon_Week4\bin\Debug\Gordon_Week4.pdb
+C:\Users\Tanner\source\repos\Gordon_Week4\obj\Debug\Gordon_Week4.csproj.AssemblyReference.cache
+C:\Users\Tanner\source\repos\Gordon_Week4\obj\Debug\Gordon_Week4.frmAccounts.resources
+C:\Users\Tanner\source\repos\Gordon_Week4\obj\Debug\Gordon_Week4.Properties.Resources.resources
+C:\Users\Tanner\source\repos\Gordon_Week4\obj\Debug\Gordon_Week4.csproj.GenerateResource.cache
+C:\Users\Tanner\source\repos\Gordon_Week4\obj\Debug\Gordon_Week4.csproj.CoreCompileInputs.cache
+C:\Users\Tanner\source\repos\Gordon_Week4\obj\Debug\Gordon_Week4.exe
+C:\Users\Tanner\source\repos\Gordon_Week4\obj\Debug\Gordon_Week4.pdb
